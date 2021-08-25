@@ -1,0 +1,55 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+/*.contact{
+    font-size: 2rem;
+}
+.ico{
+    font-size: 20px;
+}
+.place{
+    color: blue;
+    font-size: 15px;
+}*/
+
+header img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:40vh
+}
+/*-----------------------contact---------------------*/
+
+.underline{
+    color: red;
+    width: 120px;
+}
+
+.ico{
+    border-radius: 20%;
+    color: white;
+}
+.sty{
+    list-style: none;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.hear{
+    font-size: 25px;
+    color:blue;
+    font-weight: 500;
+}
+
+
+
+footer {
+    color: white;
+}
+@media(max-width:800px) {
+    
+    .carousel-item{
+        height: 50vh;
+    }
+}
